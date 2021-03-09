@@ -1,4 +1,4 @@
-package testgo
+package test_go_empty_repo
 
 import "fmt"
 
